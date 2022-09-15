@@ -1,6 +1,4 @@
 # qacademy-training-wheels
-Projeto de estudo para praticar eventos no cypress como drag-drop, 
-mouse-over e etc e também trabalhar com alguns elementos (ex.: iframe, datapicker, radio, select e etc...)
 
 Studying project to practice Cypress events like Drag-Drop,
 Mouse-Hover etc
